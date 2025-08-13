@@ -1,7 +1,9 @@
-# Hey! I’m Himanshi Yenugupalli ✨
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=900&lines=Hey%2C+I%27m+Himanshi+Yenugupalli+%E2%9C%A8" alt="Typing Animation: Hey, I'm Himanshi Yenugupalli ✨" />
+</p>
 
 ### About Me:
-- 🎓 I’m a final-year B.Sc. IT student at VIVA College, University of Mumbai, graduating in April 2025.
+- 🎓 I’m a B.Sc. IT Graduate, VIVA College, University of Mumbai.
 - 💻 I’m passionate about software development, cloud computing, and building innovative solutions.
 - 🌱 I’m currently learning AWS tools (S3, EC2, Elastic Beanstalk), scalable web development, and advanced cloud technologies.
 - 👩‍💻 I’m looking to collaborate on mission-based tech projects and creative web applications.
