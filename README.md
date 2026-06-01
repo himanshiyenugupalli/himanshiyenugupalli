@@ -13,10 +13,7 @@
 ### About Me
 
 - AI Data Annotator with 9+ months of experience in RLHF, multilingual annotation & evaluation across text, image, and audio
-- Currently exploring **AI/ML** — diving into machine learning fundamentals, model behavior, and AI safety concepts
-- Building projects at the intersection of **web development and AI** — from annotation pipelines to interactive web apps
-- Interested in **AI training, data quality, and how human feedback shapes smarter models**
-- B.Sc. IT graduate (2025), VIVA College, University of Mumbai — CGPA: 8.2/10
+- Currently exploring **AI/ML** — diving into machine learning fundamentals, model behavior, data quality, and how human feedback shapes smarter models and AI safety concepts 
 - Selected for **McKinsey Forward Program 2026**
 - 🎨 Fun fact: I can't help but sneak my hobbies into my code, whether it's a music-themed UI, a sketching tool, or a recipe app with questionable flavour logic. If it sparks joy, it ships.
 
