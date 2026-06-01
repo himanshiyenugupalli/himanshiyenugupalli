@@ -1,0 +1,103 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="120" fill="#0d1117"/>
+
+  <!-- Row 1 boxes -->
+  <rect x="10"  y="10" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#1a9e6e;#0d2e1f" dur="2.1s" repeatCount="indefinite" begin="0s"/>
+  </rect>
+  <rect x="64"  y="10" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#1a9e6e;#0d2e1f" dur="1.8s" repeatCount="indefinite" begin="0.4s"/>
+  </rect>
+  <rect x="118" y="10" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#0f5c3a;#0d2e1f" dur="2.5s" repeatCount="indefinite" begin="0.9s"/>
+  </rect>
+  <rect x="172" y="10" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#23c97e;#0d2e1f" dur="1.6s" repeatCount="indefinite" begin="0.2s"/>
+  </rect>
+  <rect x="226" y="10" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#1a9e6e;#0d2e1f" dur="2.9s" repeatCount="indefinite" begin="1.1s"/>
+  </rect>
+  <rect x="280" y="10" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#0f5c3a;#0d2e1f" dur="2.2s" repeatCount="indefinite" begin="0.6s"/>
+  </rect>
+  <rect x="334" y="10" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#23c97e;#0d2e1f" dur="1.9s" repeatCount="indefinite" begin="1.5s"/>
+  </rect>
+  <rect x="388" y="10" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#1a9e6e;#0d2e1f" dur="2.4s" repeatCount="indefinite" begin="0.3s"/>
+  </rect>
+  <rect x="442" y="10" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#0f5c3a;#0d2e1f" dur="1.7s" repeatCount="indefinite" begin="0.8s"/>
+  </rect>
+  <rect x="496" y="10" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#23c97e;#0d2e1f" dur="2.6s" repeatCount="indefinite" begin="1.3s"/>
+  </rect>
+  <rect x="550" y="10" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#1a9e6e;#0d2e1f" dur="2.0s" repeatCount="indefinite" begin="0.5s"/>
+  </rect>
+  <rect x="604" y="10" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#0f5c3a;#0d2e1f" dur="1.5s" repeatCount="indefinite" begin="1.0s"/>
+  </rect>
+  <rect x="658" y="10" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#23c97e;#0d2e1f" dur="2.3s" repeatCount="indefinite" begin="0.7s"/>
+  </rect>
+  <rect x="712" y="10" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#1a9e6e;#0d2e1f" dur="2.8s" repeatCount="indefinite" begin="1.4s"/>
+  </rect>
+  <rect x="766" y="10" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#0f5c3a;#0d2e1f" dur="1.6s" repeatCount="indefinite" begin="0.1s"/>
+  </rect>
+  <rect x="820" y="10" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#23c97e;#0d2e1f" dur="2.1s" repeatCount="indefinite" begin="1.2s"/>
+  </rect>
+
+  <!-- Row 2 boxes -->
+  <rect x="10"  y="66" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#0f5c3a;#0d2e1f" dur="2.4s" repeatCount="indefinite" begin="1.6s"/>
+  </rect>
+  <rect x="64"  y="66" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#23c97e;#0d2e1f" dur="1.9s" repeatCount="indefinite" begin="0.3s"/>
+  </rect>
+  <rect x="118" y="66" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#1a9e6e;#0d2e1f" dur="2.7s" repeatCount="indefinite" begin="0.9s"/>
+  </rect>
+  <rect x="172" y="66" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#0f5c3a;#0d2e1f" dur="1.5s" repeatCount="indefinite" begin="1.1s"/>
+  </rect>
+  <rect x="226" y="66" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#23c97e;#0d2e1f" dur="2.2s" repeatCount="indefinite" begin="0.4s"/>
+  </rect>
+  <rect x="280" y="66" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#1a9e6e;#0d2e1f" dur="2.9s" repeatCount="indefinite" begin="1.7s"/>
+  </rect>
+  <rect x="334" y="66" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#0f5c3a;#0d2e1f" dur="1.8s" repeatCount="indefinite" begin="0.6s"/>
+  </rect>
+  <rect x="388" y="66" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#23c97e;#0d2e1f" dur="2.5s" repeatCount="indefinite" begin="1.3s"/>
+  </rect>
+  <rect x="442" y="66" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#1a9e6e;#0d2e1f" dur="2.0s" repeatCount="indefinite" begin="0.2s"/>
+  </rect>
+  <rect x="496" y="66" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#0f5c3a;#0d2e1f" dur="1.6s" repeatCount="indefinite" begin="1.0s"/>
+  </rect>
+  <rect x="550" y="66" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#23c97e;#0d2e1f" dur="2.3s" repeatCount="indefinite" begin="0.7s"/>
+  </rect>
+  <rect x="604" y="66" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#1a9e6e;#0d2e1f" dur="2.8s" repeatCount="indefinite" begin="1.5s"/>
+  </rect>
+  <rect x="658" y="66" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#0f5c3a;#0d2e1f" dur="1.7s" repeatCount="indefinite" begin="0.8s"/>
+  </rect>
+  <rect x="712" y="66" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#23c97e;#0d2e1f" dur="2.1s" repeatCount="indefinite" begin="1.4s"/>
+  </rect>
+  <rect x="766" y="66" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#1a9e6e;#0d2e1f" dur="2.6s" repeatCount="indefinite" begin="0.5s"/>
+  </rect>
+  <rect x="820" y="66" width="44" height="44" rx="4" fill="#0d2e1f">
+    <animate attributeName="fill" values="#0d2e1f;#0f5c3a;#0d2e1f" dur="1.9s" repeatCount="indefinite" begin="1.2s"/>
+  </rect>
+</svg>
