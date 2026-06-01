@@ -19,7 +19,16 @@
 - Interested in **AI training, data quality, and how human feedback shapes smarter models**
 - B.Sc. IT graduate (2025), VIVA College, University of Mumbai — CGPA: 8.2/10
 - Selected for **McKinsey Forward Program 2026**
-- Loves surfing (even if I spend more time hugging the waves than riding them), strumming guitar like a wannabe rockstar, singing my heart out in the shower, doodling random things, devouring books, and cooking up questionable but delicious experiments in the kitchen 🔥
+
+---
+
+### Hobbies
+- Surfing 🌊 (even if I spend more time hugging the waves than riding them)
+- Strumming guitar like a wannabe rockstar but failing miserably 🎸
+- Singing my heart out 🎤
+- Drawing random things ✏️
+- Sometimes Dystopian bookworm 📚
+- Cooking up questionable but delicious experiments in the kitchen 🔥
 
 ---
 
@@ -31,8 +40,8 @@
 ---
 
 ### Tech Stack
-<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white" /> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+[<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white" />] 
+[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />] 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
@@ -54,9 +63,6 @@
 
 ### GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himanshiyenugupalli&theme=radical&hide_border=true&background=0D1117&stroke=FF0080&ring=7928CA&fire=FF0080&currStreakLabel=00D4FF)
-
-### GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=himanshiyenugupalli&theme=aura&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
