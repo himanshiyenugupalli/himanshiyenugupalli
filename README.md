@@ -18,7 +18,7 @@
 - Interested in **AI training, data quality, and how human feedback shapes smarter models**
 - B.Sc. IT graduate (2025), VIVA College, University of Mumbai — CGPA: 8.2/10
 - Selected for **McKinsey Forward Program 2026**
-- 🎨 Fun fact: I can't help but sneak my hobbies into my code — whether it's a music-themed UI, a sketching tool, or a recipe app with questionable flavour logic. If it sparks joy, it ships. ✨
+- 🎨 Fun fact: I can't help but sneak my hobbies into my code, whether it's a music-themed UI, a sketching tool, or a recipe app with questionable flavour logic. If it sparks joy, it ships. ✨
 
 ---
 
