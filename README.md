@@ -2,6 +2,7 @@
   <img src="./neural-banner.svg" width="900" alt="neural animation" />
 </p>
 <p align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=900&lines=I%27m%20Himanshi%20Yenugupalli&color=22C55E" alt="Typing Animation" />
 </p>
 <p align="center">
