@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
-  &nbsp;
-  <h1 align="center">Hi, I'm Himanshi Yenugupalli</h1>
-</p>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, I'm Himanshi Yenugupalli!</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=900&lines=AI+Data+Annotator+%C2%B7+B.Sc.+IT+Graduate+%C2%B7+Currently+exploring+AI%2FML&color=22C55E" alt="Typing Animation" />
