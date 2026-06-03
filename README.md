@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="./neural-banner.svg" width="900" alt="neural animation" />
-</p>
-<p align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=900&lines=I%27m%20Himanshi%20Yenugupalli&color=22C55E" alt="Typing Animation" />
+  &nbsp;
+  <h1 align="center">Hi, I'm Himanshi Yenugupalli</h1>
 </p>
+
 <p align="center">
-  AI Data Annotator &nbsp;·&nbsp; B.Sc. IT Graduate &nbsp;·&nbsp; Currently exploring AI/ML
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=900&lines=AI+Data+Annotator+%C2%B7+B.Sc.+IT+Graduate+%C2%B7+Currently+exploring+AI%2FML&color=22C55E" alt="Typing Animation" />
 </p>
 
 ---
@@ -14,7 +13,7 @@
 ### About Me
 
 - AI Data Annotator with 9+ months of experience in RLHF, multilingual annotation & evaluation across text, image, and audio
-- Currently exploring **AI/ML** — diving into machine learning fundamentals, model behavior, data quality, and how human feedback shapes smarter models and AI safety concepts 
+- Currently exploring **AI/ML** — diving into machine learning fundamentals, model behavior, data quality, and how human feedback shapes smarter models and AI safety concepts
 - Selected for **McKinsey Forward Program 2026**
 - 🎨 Fun fact: I can't help but sneak my hobbies into my code, whether it's a music-themed UI, a sketching tool, or a recipe app with questionable flavour logic. If it sparks joy, it ships.
 
@@ -23,11 +22,11 @@
 ### Hobbies
 
 - Surfing 🌊 (even if I spend more time hugging the waves than riding them)
-- Strumming guitar like a wannabe rockstar but failing miserably 
-- Singing my heart out 
-- Drawing random things 
-- Sometimes Dystopian bookworm 
-- Cooking up questionable but delicious experiments in the kitchen 
+- Strumming guitar like a wannabe rockstar but failing miserably
+- Singing my heart out
+- Drawing random things
+- Sometimes Dystopian bookworm
+- Cooking up questionable but delicious experiments in the kitchen
 
 ---
 
