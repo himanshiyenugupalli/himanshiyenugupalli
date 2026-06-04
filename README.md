@@ -1,15 +1,15 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, I'm Himanshi Yenugupalli!</h2>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=900&lines=AI+Data+Annotator+%C2%B7+B.Sc.+IT+Graduate+%C2%B7+Currently+exploring+AI%2FML&color=22C55E" alt="Typing Animation" />
 </p>
+
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="40" /> Hi there, Himanshi here!</h2>
 
 ---
 
 ### About Me
 
 - AI Data Annotator with 9+ months of experience in RLHF, multilingual annotation & evaluation across text, image, and audio
-- Currently exploring **AI/ML** — diving into machine learning fundamentals, model behavior, data quality, and how human feedback shapes smarter models and AI safety concepts
+- Currently exploring **AI/ML**,diving into machine learning fundamentals, model behavior, data quality, and how human feedback shapes smarter models and AI safety concepts
 - Selected for **McKinsey Forward Program 2026**
 - 🎨 Fun fact: I can't help but sneak my hobbies into my code, whether it's a music-themed UI, a sketching tool, or a recipe app with questionable flavour logic. If it sparks joy, it ships.
 
