@@ -86,13 +86,16 @@
 
 <br/>
 
+---
+
+###  GitHub Contribution
+
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/himanshiyenugupalli/himanshiyenugupupalli/output/github-contribution-grid-snake-dark.svg"
-    alt="Himanshi's GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/himanshiyenugupalli/himanshiyenugupalli/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
   />
 </p>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=himanshiyenugupalli&icon=0&color=10)](https://visitcount.itsvg.in)
