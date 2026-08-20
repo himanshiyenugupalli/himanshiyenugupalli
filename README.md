@@ -91,6 +91,14 @@
 
 ### GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himanshiyenugupalli&theme=radical&hide_border=true&background=0D1117&stroke=FF0080&ring=7928CA&fire=FF0080&currStreakLabel=00D4FF)
+<div align="center">
+  <img src="https://img.shields.io/badge/-GITHUB%20STATS-0d1117?style=for-the-badge&labelColor=F74C00&logo=github&logoColor=white" alt="GitHub stats section badge" />
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=himanshiyenugupalli&icon=0&color=10)](https://visitcount.itsvg.in)
+
+<div align="center">
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=himanshiyenugupalli&theme=radical&hide_border=true"
+    alt="himanshiyenugupalli GitHub contribution streak stats"
+  />
