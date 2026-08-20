@@ -9,7 +9,7 @@
 ### About Me
 
 - AI Data Annotator with 9+ months of experience in RLHF, multilingual annotation & evaluation across text, image, and audio
-- Currently exploring **AI/ML**,diving into machine learning fundamentals, model behavior, data quality, and how human feedback shapes smarter models and AI safety concepts
+- Currently exploring **AI/ML**, diving into machine learning fundamentals, model behavior, data quality, and how human feedback shapes smarter models and AI safety concepts
 - Selected for **McKinsey Forward Program 2026**
 - 🎨 Fun fact: I can't help but sneak my hobbies into my code, whether it's a music-themed UI, a sketching tool, or a recipe app with questionable flavour logic. If it sparks joy, it ships.
 
@@ -53,10 +53,18 @@
 ### Socials
 
 <p align="left">
-  <a href="https://linkedin.com/in/himanshi-yenugupalli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/himanshiyenugupl"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/hims_yens"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="mailto:himanshiyenugupalli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/himanshi-yenugupalli">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/himanshiyenugupl">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/hims_yens">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="mailto:himanshiyenugupalli@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -64,6 +72,26 @@
 ### GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himanshiyenugupalli&theme=radical&hide_border=true&background=0D1117&stroke=FF0080&ring=7928CA&fire=FF0080&currStreakLabel=00D4FF)
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=himanshiyenugupalli&theme=react-dark&hide_border=true&area=true&color=F74C00&line=F74C00&point=ffffff"
+    alt="Himanshi's GitHub activity graph"
+  />
+</p>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/himanshiyenugupalli/himanshiyenugupupalli/output/github-contribution-grid-snake-dark.svg"
+    alt="Himanshi's GitHub contribution grid snake animation"
+  />
+</p>
 
 ---
 
