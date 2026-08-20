@@ -88,7 +88,6 @@
     alt="GitHub Contribution Snake"
   />
 </p>
----
 
 ### GitHub Stats
 
